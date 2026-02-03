@@ -76,7 +76,11 @@ repositories {
             includeGroup "dev.latvian.mods"
             includeGroup "dev.latvian.apps"
         }
-    } 
+    }
+    
+    maven {
+        url = "https://jitpack.io"
+    }
 }  
 
 dependencies {
