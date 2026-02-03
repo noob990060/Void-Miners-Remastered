@@ -81,5 +81,6 @@
   "jade.voidminers.energy": "Energía: %s / %s FE",
   "jade.voidminers.status.working": "Estado: Trabajando",
   "jade.voidminers.status.idle": "Estado: Inactivo",
-  "jade.voidminers.progress": "Progreso: %s%%"
+  "jade.voidminers.progress": "Progreso: %s%%",
+  "config.jade.plugin_voidminers.void_miner": "Minero del Vacío"
 }
